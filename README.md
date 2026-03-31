@@ -4,6 +4,9 @@
 
 Tenho me aprofundado bastante em segurança da informação e gosto de resolver as coisas na prática — scripts, labs, ferramentas reais. Ainda tenho muito a aprender, mas o que já sei, sei de verdade.
 
+<div align="center">
+  <img src="36cc279ef14dedfbfdd1a37b9421ea05" width="150" style="border-radius: 50%"/>
+</div>
 ---
 
 ## Sobre mim
