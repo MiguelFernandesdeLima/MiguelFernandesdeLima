@@ -5,10 +5,6 @@
 Tenho me aprofundado bastante em segurança da informação e gosto de resolver as coisas na prática, scripts, labs, ferramentas reais. Ainda tenho muito a aprender, mas o que já sei, sei de verdade.
 ---
 
-<div align="center">
-  <img src="054072841a07f720a33762c2f70f75c8L" width="150" style="border-radius: 50%"/>
-</div>
-
 ## Sobre mim
 
 - Cursando **Análise e Desenvolvimento de Sistemas** — UNINOVE (3° sem.)
