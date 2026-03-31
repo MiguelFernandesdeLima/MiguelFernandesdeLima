@@ -2,7 +2,7 @@
 
 **Estudante de ADS na UNINOVE** | São Paulo, SP
 
-Apaixonado por tecnologia, segurança da informação e resolver problemas com código. Atualmente no 3° semestre, construindo minha base sólida em desenvolvimento e cybersecurity enquanto busco minha primeira oportunidade na área.
+Tenho me aprofundado bastante em segurança da informação e gosto de resolver as coisas na prática — scripts, labs, ferramentas reais. Ainda tenho muito a aprender, mas o que já sei, sei de verdade.
 
 ---
 
